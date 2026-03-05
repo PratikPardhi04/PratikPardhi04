@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pratik-pardhi-builds/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-pardhi-builds/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikpardhi321@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikPardhi04)
 [![Profile Views](https://komarev.com/ghpvc/?username=PratikPardhi04&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PratikPardhi04)
@@ -203,8 +203,6 @@ Modern neon twist on the classic XO game. Play 2-player or challenge a smart AI 
 
 </div>
 
-
-
 ---
 
 ## 🎯 Currently Levelling Up
@@ -228,7 +226,7 @@ $ _
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pratik-pardhi-8b8b39330/">
+<a href="https://www.linkedin.com/in/pratik-pardhi-builds/">
   <img src="https://img.shields.io/badge/LinkedIn-Pratik%20Pardhi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -253,8 +251,8 @@ $ _
 
 ### 💬 Words I Actually Live By
 
-> *"The best error message is the one that never shows up."*
-> — **Thomas Fuchs**
+> *"First, solve the problem. Then, write the code."*
+> — **John Johnson**
 
 <br/>
 
