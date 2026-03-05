@@ -10,6 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikpardhi321@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikPardhi04)
 [![Profile Views](https://komarev.com/ghpvc/?username=PratikPardhi04&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PratikPardhi04)
+[![Total Stars](https://img.shields.io/github/stars/PratikPardhi04?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL+STARS&color=yellow)](https://github.com/PratikPardhi04?tab=repositories)
 
 </div>
 
@@ -41,7 +42,7 @@ class Pratik:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PratikPardhi04&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PratikPardhi04&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" width="100%"/>
 
 </div>
 
