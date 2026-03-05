@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=bf5fff&background=00000000&center=true&vCenter=true&width=750&height=55&lines=🚀+Building+AI-Powered+Web+Apps;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP;🌐+MERN+Stack+%7C+React+%7C+Node.js;📊+Data+Science+%7C+Python+%7C+OpenCV;⚡+Shipping+code+at+2AM+every+night+🌙;💡+Turning+raw+data+into+real-world+impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=bf5fff&background=00000000&center=true&vCenter=true&width=750&height=55&lines=Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%F0%9F%A7%A0;MERN+Stack+%7C+React+%7C+Node.js+%F0%9F%8C%90;Data+Science+%7C+Python+%7C+OpenCV+%F0%9F%93%8A;Shipping+code+at+2AM+every+night+%E2%9A%A1;Turning+raw+data+into+real-world+impact+%F0%9F%92%A1" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -259,7 +259,7 @@ $ _
 
 <br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Down.svg)
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:6600ff,50:9900ff,100:ff00cc&height=60&section=footer&reversal=false" width="100%"/>
 
 </div>
 
