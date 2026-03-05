@@ -41,7 +41,7 @@ class Pratik:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PratikPardhi04&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PratikPardhi04&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" width="100%"/>
 
 </div>
 
@@ -194,15 +194,11 @@ Modern neon twist on the classic XO game. Play 2-player or challenge a smart AI 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake-dark.svg" width="95%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake animation"/>
 
 </div>
 
-> ⚙️ **To activate the snake:** Go to your profile repo → Actions → enable **GitHub Actions** → add the [snake workflow](https://github.com/Platane/snk).
+> ⚙️ **To get YOUR snake:** In your profile repo → create `.github/workflows/snake.yml` → paste the [Platane/snk workflow](https://github.com/Platane/snk) → run it once. The snake above uses a shared demo until yours is live!
 
 ---
 
