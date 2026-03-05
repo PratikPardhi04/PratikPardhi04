@@ -1,12 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6600ff,50:9900ff,100:ff00cc&height=280&section=header&text=Pratik%20Pardhi&fontSize=75&fontColor=ffffff&fontAlignY=40&desc=🧠%20AI%20Engineer%20%7C%20🌐%20Full%20Stack%20Dev%20%7C%20⚡%20MERN%20Stack&descAlignY=62&descSize=22&descColor=e0aaff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6600ff,50:9900ff,100:ff00cc&height=300&section=header&text=Pratik%20Pardhi&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=🧠%20AI%20Engineer%20%7C%20🌐%20Full%20Stack%20Dev%20%7C%20⚡%20MERN%20Stack&descAlignY=62&descSize=22&descColor=e0aaff&animation=fadeIn&stroke=9900ff&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
-<a href="https://github.com/PratikPardhi04">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=bf5fff&background=00000000&center=true&vCenter=true&width=700&height=50&lines=🚀+Building+AI-Powered+Web+Apps;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP;🌐+MERN+Stack+%7C+React+%7C+Node.js;📊+Data+Science+%7C+Python+%7C+OpenCV;⚡+Shipping+code+at+2AM+every+night+🌙" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=bf5fff&background=00000000&center=true&vCenter=true&width=750&height=55&lines=🚀+Building+AI-Powered+Web+Apps;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP;🌐+MERN+Stack+%7C+React+%7C+Node.js;📊+Data+Science+%7C+Python+%7C+OpenCV;⚡+Shipping+code+at+2AM+every+night+🌙;💡+Turning+raw+data+into+real-world+impact" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-pardhi-8b8b39330/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikpardhi321@gmail.com)
@@ -17,7 +15,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="coding gif"/>
 
 ## 🧑‍💻 `whoami`
 
@@ -28,7 +26,7 @@ class Pratik:
     role       = "AI Engineer + Full Stack Developer"
     stack      = ["MERN", "Python", "ML/DL", "Data Science"]
     currently  = "Building AI-powered full-stack apps 🚀"
-    learning   = ["Advanced NLP", "LLMs", "GenAI"]
+    learning   = ["LLMs", "GenAI", "Advanced NLP", "RAG"]
     passion    = "Turning raw data into real-world solutions"
     fun_fact   = "My best code runs at 2AM ☕🌙"
     open_to    = ["Internships", "Collabs", "Open Source"]
@@ -36,6 +34,16 @@ class Pratik:
 ```
 
 <br clear="right"/>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PratikPardhi04&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+
+</div>
 
 ---
 
@@ -92,6 +100,7 @@ class Pratik:
 
 ### 🩺 Diabetes Risk AI + Nutrition Assistant
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikPardhi04/Diabetes-Risk-AI-Nutrition-Assistant-main)
+![Stars](https://img.shields.io/github/stars/PratikPardhi04/Diabetes-Risk-AI-Nutrition-Assistant-main?color=bf5fff&style=flat-square)
 
 AI-powered web app that predicts diabetes risk from user health data and delivers personalised nutrition advice. Combines ML models with an intuitive UI to help users make smarter, data-driven dietary decisions.
 
@@ -102,6 +111,7 @@ AI-powered web app that predicts diabetes risk from user health data and deliver
 
 ### 🌾 Crop Recommendation Engine
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikPardhi04/Crop-recommendation-engine)
+![Stars](https://img.shields.io/github/stars/PratikPardhi04/Crop-recommendation-engine?color=bf5fff&style=flat-square)
 
 Smart ML system that recommends the best crop using soil nutrients (N, P, K), pH, temperature & rainfall. Powered by IBM Watson ML + Flask for real-time, accurate predictions to help farmers grow smarter.
 
@@ -125,7 +135,7 @@ Sleek web app to search any GitHub user and instantly view their profile — rep
 ### 🚦 Data-Driven Traffic Management System
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikPardhi04/Data-Driven-Traffic-Management-System)
 
-Analyses vehicle flow and congestion patterns to optimise traffic signal timings. Uses Python and data science techniques to simulate smarter, real-world urban traffic control solutions.
+Analyses vehicle flow and congestion patterns to optimise traffic signal timings. Uses Python and data science to simulate smarter, real-world urban traffic control solutions.
 
 **Tech:** `Python` `Data Science` `Pandas` `Matplotlib`
 
@@ -137,7 +147,7 @@ Analyses vehicle flow and congestion patterns to optimise traffic signal timings
 ### ✅ To-Do List App
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikPardhi04/TO-DO-LIST)
 
-Minimal yet fully functional task manager to add, complete & delete daily tasks. Built with vanilla JavaScript — clean UI, smooth interactions, great for mastering DOM manipulation and local state.
+Minimal yet fully functional task manager to add, complete & delete daily tasks. Built with vanilla JavaScript — clean UI, smooth interactions, great for mastering DOM manipulation.
 
 **Tech:** `JavaScript` `HTML` `CSS`
 
@@ -147,7 +157,7 @@ Minimal yet fully functional task manager to add, complete & delete daily tasks.
 ### ❌⭕ Tic-Tac-Toe Game
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikPardhi04/Tic-Tac-Toe-Game)
 
-Modern neon twist on the classic XO game. Play 2-player or challenge a smart AI bot that blocks and strategises to win. Built with JavaScript and styled with glowing, vibrant neon aesthetics.
+Modern neon twist on the classic XO game. Play 2-player or challenge a smart AI bot that blocks and strategises to win. Styled with glowing, vibrant neon aesthetics.
 
 **Tech:** `JavaScript` `CSS` `Game AI Logic`
 
@@ -161,7 +171,7 @@ Modern neon twist on the classic XO game. Play 2-player or challenge a smart AI 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PratikPardhi04&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=bf5fff&icon_color=ff79c6&text_color=ffffff&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PratikPardhi04&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=bf5fff&icon_color=ff79c6&text_color=ffffff&border_radius=10&include_all_commits=true&count_private=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikPardhi04&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=bf5fff&text_color=ffffff&border_radius=10" height="170"/>
 
 </div>
@@ -174,21 +184,41 @@ Modern neon twist on the classic XO game. Play 2-player or challenge a smart AI 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikPardhi04&bg_color=0d1117&color=bf5fff&line=9900ff&point=ff79c6&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikPardhi04&bg_color=0d1117&color=bf5fff&line=9900ff&point=ff79c6&area=true&hide_border=true&radius=8" width="95%"/>
 
 </div>
 
 ---
 
+## 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+> ⚙️ **To activate the snake:** Go to your profile repo → Actions → enable **GitHub Actions** → add the [snake workflow](https://github.com/Platane/snk).
+
+---
+
 ## 🎯 Currently Levelling Up
 
-```
+```bash
+$ cat current_status.log
+
 🔭  Building    →  AI-powered MERN full-stack applications
 🌱  Learning    →  LLMs · Generative AI · Advanced NLP · RAG pipelines
 👯  Open to     →  Internships · Open Source Collabs · Freelance Projects
 💬  Ask me      →  MERN · Python · ML/DL · Data Science · React
 🎯  Goal 2025   →  Land a top-tier AI/Full Stack role & ship 10 projects
 ⚡  Fun fact    →  I write my best code at 2AM with lo-fi beats 🎧🌙
+
+$ _
 ```
 
 ---
@@ -220,8 +250,21 @@ Modern neon twist on the classic XO game. Play 2-player or challenge a smart AI 
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
+### 💬 Words I Actually Live By
+
+> *"The best error message is the one that never shows up."*
+> — **Thomas Fuchs**
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+
+**If you scrolled this far — you're already my kind of person. Let's connect! 🤝**
+
+<br/>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Down.svg)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600ff,50:9900ff,100:ff00cc&height=120&section=footer&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600ff,50:9900ff,100:ff00cc&height=130&section=footer" width="100%"/>
