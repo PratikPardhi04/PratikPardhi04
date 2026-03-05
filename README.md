@@ -194,11 +194,15 @@ Modern neon twist on the classic XO game. Play 2-player or challenge a smart AI 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake-dark.svg" width="95%"/>
+</picture>
 
 </div>
 
-> ⚙️ **To get YOUR snake:** In your profile repo → create `.github/workflows/snake.yml` → paste the [Platane/snk workflow](https://github.com/Platane/snk) → run it once. The snake above uses a shared demo until yours is live!
+
 
 ---
 
