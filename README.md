@@ -172,20 +172,27 @@ Modern neon twist on the classic XO game. Play 2-player or challenge a smart AI 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PratikPardhi04&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=bf5fff&icon_color=ff79c6&text_color=ffffff&border_radius=10&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikPardhi04&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=bf5fff&text_color=ffffff&border_radius=10" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=PratikPardhi04&theme=tokyonight&hide_border=true&background=0D1117&stroke=bf5fff&ring=bf5fff&fire=ff6b6b&currStreakNum=ffffff&sideNums=bf5fff&currStreakLabel=ff79c6&sideLabels=bf5fff&dates=888888&border_radius=16" width="70%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikPardhi04&theme=tokyonight" width="95%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikPardhi04&theme=radical&hide_border=true&background=0d1117&stroke=bf5fff&ring=bf5fff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa" width="65%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikPardhi04&bg_color=0d1117&color=bf5fff&line=9900ff&point=ff79c6&area=true&hide_border=true&radius=8" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratikPardhi04&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratikPardhi04&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PratikPardhi04&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratikPardhi04&theme=tokyonight&utcOffset=5.5" height="160"/>
 
 </div>
 
