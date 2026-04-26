@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=bf5fff&center=true&vCenter=true&width=700&height=50&lines=Building+AI-Powered+Web+Apps+🚀;MERN+%7C+Python+%7C+ML%2FDL+%7C+GenAI+🧠;LLMs+%7C+RAG+Pipelines+%7C+AI+Agents+🤖;Shipping+code+at+2AM+every+night+⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=bf5fff&center=true&vCenter=true&width=700&height=50&lines=Building+AI-Powered+Web+Apps;MERN+%7C+Python+%7C+ML%2FDL+%7C+GenAI;LLMs+%7C+RAG+Pipelines+%7C+AI+Agents;Shipping+code+at+2AM+every+night" alt="Typing SVG" />
 
 <br/>
 
