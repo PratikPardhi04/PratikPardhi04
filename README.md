@@ -1,4 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6600ff,50:9900ff,100:ff00cc&height=220&section=header&text=Pratik%20Pardhi&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=🧠%20AI%20Engineer%20%7C%20🌐%20Full%20Stack%20Dev%20%7C%20⚡%20MERN%20Stack&descAlignY=62&descSize=16&descColor=e0aaff&animation=fadeIn" width="100%"/>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-contribution-grid-snake.svg"/>
+  <img alt="Pratik Pardhi — animated contribution snake" src="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
 
 <br/>
 
@@ -146,18 +154,6 @@ Search any GitHub user and view their profile — repos, followers, bio & more v
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikPardhi04&bg_color=0d1117&color=bf5fff&line=9900ff&point=ff00cc&area=true&hide_border=true" width="100%"/>
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-snake-dark.svg" width="100%"/>
-</picture>
 </div>
 
 ---
