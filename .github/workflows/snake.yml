@@ -10,7 +10,57 @@ on:
 
 permissions:
   contents: write
+name: generate snake with name overlay
 
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # regenerate twice a day so it stays current
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: generate raw snake svg (dark + light)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: PratikPardhi04
+          outputs: |
+            dist/snake-raw.svg
+            dist/snake-raw-dark.svg?palette=github-dark
+
+      - name: set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: overlay name + tagline onto the snake svg
+        run: |
+          mkdir -p publish
+          python scripts/overlay_snake.py dist/snake-raw.svg publish/github-contribution-grid-snake.svg \
+            --name "Pratik Pardhi" \
+            --tagline "AI Engineer | Full Stack Dev | MERN Stack"
+          python scripts/overlay_snake.py dist/snake-raw-dark.svg publish/github-contribution-grid-snake-dark.svg \
+            --name "Pratik Pardhi" \
+            --tagline "AI Engineer | Full Stack Dev | MERN Stack"
+
+      - name: publish to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./publish
+          keep_files: false
+          force_orphan: true
 jobs:
   build:
     runs-on: ubuntu-latest
