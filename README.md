@@ -89,6 +89,10 @@ class Pratik:
 
 ## 📌 Pinned Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🥗 [NutriAI](https://github.com/PratikPardhi04/NutriAI)
 ![Stars](https://img.shields.io/github/stars/PratikPardhi04/NutriAI?color=bf5fff&style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/PratikPardhi04/NutriAI?color=9900ff&style=flat-square)
@@ -97,7 +101,8 @@ Premium AI-powered nutrition platform — tracks health & diet via advanced imag
 
 `JavaScript` `MERN` `AI` `Image Analysis`
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
 ### 🧠 [CogniCheck — Pragyantra-41-ET-1](https://github.com/PratikPardhi04/Pragyantra-41-ET-1)
 ![Stars](https://img.shields.io/github/stars/PratikPardhi04/Pragyantra-41-ET-1?color=bf5fff&style=flat-square)
@@ -107,7 +112,10 @@ AI-powered misconception detector for classrooms — built with MERN, FastAPI & 
 
 `JavaScript` `MERN` `FastAPI` `Gemini` `Llama`
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚦 [Traffic Management System](https://github.com/PratikPardhi04/Data-Driven-Traffic-Management-System)
 ![Stars](https://img.shields.io/github/stars/PratikPardhi04/Data-Driven-Traffic-Management-System?color=bf5fff&style=flat-square)
@@ -117,7 +125,8 @@ Analyses vehicle flow & congestion to optimise traffic signal timings using Pyth
 
 `Python` `Pandas` `Matplotlib` `Data Science`
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
 ### 🌾 [Crop Recommendation Engine](https://github.com/PratikPardhi04/Crop-recommendation-engine)
 ![Stars](https://img.shields.io/github/stars/PratikPardhi04/Crop-recommendation-engine?color=bf5fff&style=flat-square)
@@ -127,7 +136,10 @@ Recommends the best crop using soil nutrients, pH, temperature & rainfall via IB
 
 `Python` `Flask` `IBM Watson ML` `Scikit-Learn`
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔍 [GitHub User Finder](https://github.com/PratikPardhi04/Git-Hub-User-Finder)
 ![Stars](https://img.shields.io/github/stars/PratikPardhi04/Git-Hub-User-Finder?color=bf5fff&style=flat-square)
@@ -136,6 +148,13 @@ Recommends the best crop using soil nutrients, pH, temperature & rainfall via IB
 Search any GitHub user and view their profile — repos, followers, bio & more via GitHub REST API.
 
 `HTML` `Tailwind CSS` `JavaScript` `GitHub API`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
