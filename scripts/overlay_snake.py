@@ -2,7 +2,7 @@ import argparse
 import re
 import sys
 
-# --- Canvas size: bumped up so the snake/grid renders larger ---
+
 CANVAS_W = 1200
 CANVAS_H = 300
 
@@ -12,7 +12,6 @@ NAME_OPACITY = "1"
 TAGLINE_COLOR = "#e0aaff"
 TAGLINE_OPACITY = "1"
 
-# Font sizes scaled up proportionally with the new canvas width (ratio kept same as before)
 NAME_FONT_SIZE = 77
 TAGLINE_FONT_SIZE = 24
 
@@ -59,7 +58,7 @@ def build_composited_svg(inner: str, orig_w: float, orig_h: float, name: str, ta
     tagline_esc = escape_xml_text(tagline)
 
     # Place name/tagline as a vertical pair straddling the grid's vertical center
-    name_y = grid_center_y - (TAGLINE_FONT_SIZE * 0.9)
+    name_y = grid_center_y - (TAGLINE_FONT_SIZE * 1.8)
     tagline_y = grid_center_y + (TAGLINE_FONT_SIZE * 1.1)
 
     return f'''<svg width="{CANVAS_W}" height="{CANVAS_H}" viewBox="0 0 {CANVAS_W} {CANVAS_H}" xmlns="http://www.w3.org/2000/svg">
