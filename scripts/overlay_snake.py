@@ -2,15 +2,19 @@ import argparse
 import re
 import sys
 
-CANVAS_W = 900
-CANVAS_H = 220
+# --- Canvas size: bumped up so the snake/grid renders larger ---
+CANVAS_W = 1200
+CANVAS_H = 300
+
 BG_COLOR = "#0d1117"
 NAME_COLOR = "#ffffff"
 NAME_OPACITY = "1"
 TAGLINE_COLOR = "#e0aaff"
 TAGLINE_OPACITY = "1"
-NAME_FONT_SIZE = 58
-TAGLINE_FONT_SIZE = 18
+
+# Font sizes scaled up proportionally with the new canvas width (ratio kept same as before)
+NAME_FONT_SIZE = 77
+TAGLINE_FONT_SIZE = 24
 
 
 def extract_svg_parts(svg_text: str):
@@ -18,20 +22,16 @@ def extract_svg_parts(svg_text: str):
     if not open_tag_match:
         raise ValueError("Could not find an <svg> opening tag in the input file.")
     open_tag = open_tag_match.group(0)
-
     width_match = re.search(r'width="(\d+(?:\.\d+)?)"', open_tag)
     height_match = re.search(r'height="(\d+(?:\.\d+)?)"', open_tag)
     if not (width_match and height_match):
         raise ValueError("Input SVG's opening tag is missing width/height attributes.")
-
     orig_w = float(width_match.group(1))
     orig_h = float(height_match.group(1))
-
     inner_match = re.search(r"<svg\b[^>]*>(.*)</svg>\s*$", svg_text, re.DOTALL)
     if not inner_match:
         raise ValueError("Could not extract inner content of the SVG.")
     inner = inner_match.group(1)
-
     return orig_w, orig_h, inner
 
 
@@ -45,21 +45,32 @@ def escape_xml_text(text: str) -> str:
 
 def build_composited_svg(inner: str, orig_w: float, orig_h: float, name: str, tagline: str) -> str:
     scale = CANVAS_W / orig_w
+    scaled_w = orig_w * scale  # == CANVAS_W, kept explicit for clarity
     scaled_h = orig_h * scale
+    offset_x = (CANVAS_W - scaled_w) / 2  # will be 0 since grid always fills full width
     offset_y = (CANVAS_H - scaled_h) / 2
+
+    # Center of the actual scaled grid/snake area (not just the raw canvas),
+    # so the name always lines up with the grid even if canvas padding changes.
+    grid_center_x = offset_x + (scaled_w / 2)
+    grid_center_y = offset_y + (scaled_h / 2)
 
     name_esc = escape_xml_text(name)
     tagline_esc = escape_xml_text(tagline)
 
+    # Place name/tagline as a vertical pair straddling the grid's vertical center
+    name_y = grid_center_y - (TAGLINE_FONT_SIZE * 0.9)
+    tagline_y = grid_center_y + (TAGLINE_FONT_SIZE * 1.1)
+
     return f'''<svg width="{CANVAS_W}" height="{CANVAS_H}" viewBox="0 0 {CANVAS_W} {CANVAS_H}" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="100%" fill="{BG_COLOR}"/>
-  <g transform="translate(0,{offset_y:.2f}) scale({scale:.5f})">
+  <g transform="translate({offset_x:.2f},{offset_y:.2f}) scale({scale:.5f})">
     {inner}
   </g>
-  <text x="50%" y="42%" text-anchor="middle" dominant-baseline="middle"
+  <text x="{grid_center_x:.2f}" y="{name_y:.2f}" text-anchor="middle" dominant-baseline="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="{NAME_FONT_SIZE}"
         font-weight="700" fill="{NAME_COLOR}" fill-opacity="{NAME_OPACITY}">{name_esc}</text>
-  <text x="50%" y="58%" text-anchor="middle" dominant-baseline="middle"
+  <text x="{grid_center_x:.2f}" y="{tagline_y:.2f}" text-anchor="middle" dominant-baseline="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="{TAGLINE_FONT_SIZE}"
         font-weight="600" fill="{TAGLINE_COLOR}" fill-opacity="{TAGLINE_OPACITY}">{tagline_esc}</text>
 </svg>
@@ -73,16 +84,12 @@ def main():
     parser.add_argument("--name", default="Pratik Pardhi")
     parser.add_argument("--tagline", default="AI Engineer | Full Stack Dev | MERN Stack")
     args = parser.parse_args()
-
     with open(args.input, "r", encoding="utf-8") as f:
         svg_text = f.read()
-
     orig_w, orig_h, inner = extract_svg_parts(svg_text)
     composited = build_composited_svg(inner, orig_w, orig_h, args.name, args.tagline)
-
     with open(args.output, "w", encoding="utf-8") as f:
         f.write(composited)
-
     print(f"Wrote composited SVG: {args.output} ({CANVAS_W}x{CANVAS_H}, snake scaled {CANVAS_W/orig_w:.3f}x)")
 
 
