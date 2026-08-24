@@ -1,29 +1,27 @@
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-contribution-grid-snake.svg"/>
   <img alt="Pratik Pardhi — animated contribution snake" src="https://raw.githubusercontent.com/PratikPardhi04/PratikPardhi04/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-</div>
-
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=800&color=bf5fff&center=true&vCenter=true&width=700&height=50&lines=Building+AI-Powered+Web+Apps;MERN+%7C+Python+%7C+ML%2FDL+%7C+GenAI;LLMs+%7C+LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Shipping+code+at+2AM+every+night" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=BF5FFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+AI-Powered+Web+Apps+%F0%9F%9A%80;MERN+%7C+Python+%7C+ML%2FDL+%7C+GenAI;LLMs+%7C+LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Turning+coffee+%E2%98%95+into+code+at+2AM" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-pardhi-builds/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikpardhi321@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikPardhi04)
-[![Profile Views](https://komarev.com/ghpvc/?username=PratikPardhi04&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PratikPardhi04)
+<a href="https://www.linkedin.com/in/pratik-pardhi-builds/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pratikpardhi321@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/PratikPardhi04"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=PratikPardhi04&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2&width=100%" width="100%"/>
 
 ## 🧑‍💻 `whoami`
 
@@ -36,13 +34,16 @@ class Pratik:
     open_to   = ["Internships", "Collabs", "Open Source"]
     fun_fact  = "Best code written at 2AM ☕🌙"
     email     = "pratikpardhi321@gmail.com"
+
+    def __repr__(self):
+        return "Shipping AI-powered products, one commit at a time 🚀"
 ```
 
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2&width=100%" width="100%"/>
 
 ## 🔥 Tech Stack
 
@@ -50,6 +51,8 @@ class Pratik:
 
 **GenAI / LLMs**
 
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" height="45"/>
+&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
@@ -85,7 +88,7 @@ class Pratik:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2&width=100%" width="100%"/>
 
 ## 📌 Pinned Projects
 
@@ -156,7 +159,13 @@ Search any GitHub user and view their profile — repos, followers, bio & more v
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2&width=100%" width="100%"/>
+
+## 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PratikPardhi04&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -164,6 +173,10 @@ Search any GitHub user and view their profile — repos, followers, bio & more v
 
 <img src="https://streak-stats.demolab.com/?user=PratikPardhi04&theme=tokyonight&hide_border=true&background=0D1117&stroke=bf5fff&ring=bf5fff&fire=ff6b6b&currStreakNum=ffffff&sideNums=bf5fff&currStreakLabel=ff79c6&sideLabels=bf5fff&dates=888888&border_radius=16" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=PratikPardhi04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bf5fff&icon_color=bf5fff&text_color=c9d1d9" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikPardhi04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bf5fff&text_color=c9d1d9" width="45%"/>
 
 <br/><br/>
 
@@ -175,7 +188,7 @@ Search any GitHub user and view their profile — repos, followers, bio & more v
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2&width=100%" width="100%"/>
 
 <div align="center">
 
@@ -183,10 +196,10 @@ Search any GitHub user and view their profile — repos, followers, bio & more v
 
 <br/>
 
-**Open to internships · AI/ML roles · Full-stack projects · Open source 🚀**
+### 🚀 Open to internships · AI/ML roles · Full-stack projects · Open source
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-pardhi-builds/)
-[![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikpardhi321@gmail.com)
+<a href="https://www.linkedin.com/in/pratik-pardhi-builds/"><img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pratikpardhi321@gmail.com"><img src="https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600ff,50:9900ff,100:ff00cc&height=100&section=footer" width="100%"/>
 
