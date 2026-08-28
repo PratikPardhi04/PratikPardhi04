@@ -159,30 +159,16 @@ Search any GitHub user and view their profile — repos, followers, bio & more v
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2&width=100%" width="100%"/>
 
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PratikPardhi04&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=PratikPardhi04&theme=tokyonight&hide_border=true&background=0D1117&stroke=bf5fff&ring=bf5fff&fire=ff6b6b&currStreakNum=ffffff&sideNums=bf5fff&currStreakLabel=ff79c6&sideLabels=bf5fff&dates=888888&border_radius=16" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=PratikPardhi04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bf5fff&icon_color=bf5fff&text_color=c9d1d9" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikPardhi04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bf5fff&text_color=c9d1d9" width="45%"/>
-
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikPardhi04&theme=tokyonight" width="90%"/>
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikPardhi04&bg_color=0d1117&color=bf5fff&line=9900ff&point=ff00cc&area=true&hide_border=true" width="100%"/>
 
 </div>
 
