@@ -163,12 +163,15 @@ Search any GitHub user and view their profile — repos, followers, bio & more v
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=PratikPardhi04&theme=tokyonight&hide_border=true&background=0D1117&stroke=bf5fff&ring=bf5fff&fire=ff6b6b&currStreakNum=ffffff&sideNums=bf5fff&currStreakLabel=ff79c6&sideLabels=bf5fff&dates=888888&border_radius=16" width="48%"/>
+<img src="https://git-hub-status-cards.vercel.app/api/streak?username=PratikPardhi04" width="48%" />
+
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikPardhi04&theme=tokyonight" width="90%"/>
+<img src="https://git-hub-status-cards.vercel.app/api/graph?username=PratikPardhi04" width="90%" />
 
-<br/>
+<br/><br/>
+
+</div>
 
 </div>
 
