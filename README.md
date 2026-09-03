@@ -149,7 +149,6 @@ Recommends the best crop using soil nutrients, pH, temperature & rainfall via IB
 Search any GitHub user and view their profile — repos, followers, bio & more via GitHub REST API.
 
 `HTML` `Tailwind CSS` `JavaScript` `GitHub API`
-
 </td>
 <td width="50%" valign="top">
 
